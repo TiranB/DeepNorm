@@ -15,7 +15,7 @@ DeepNorm is a layered data modeling project that applies advanced normalization 
 | 2NF | Remove partial dependencies | 1NF → 2NF |
 | 3NF | Remove transitive dependencies | 2NF → 3NF |
 
-##Data Source
+## Data Source
 - **Dataset Name**: [Transactions]
 - **Type**: Flat file (Excel)
 - **Rows**: [62885 rows]
@@ -25,4 +25,4 @@ DeepNorm is a layered data modeling project that applies advanced normalization 
 - Power Query
 - Power Pivot
 
-##🧭 Step-by-Step Process
+## 🧭 Step-by-Step Process
