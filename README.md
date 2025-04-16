@@ -46,7 +46,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
      - Sorted for clear structure
      - Confirmed the uniqueness of the primary key columns by checking the 'column profile' in 'view' tab (select the 'Column profiling based on entire dataset' 
        option in the left bottom corner of the Power Query editor)
-       [Check it]()
+       [Preview of Column Profile'](https://github.com/TiranB/DeepNorm/blob/Images/profile%20view%20image.JPG)
   - Remove all the dimensional level data from the transaction table (Fact Table)
   - Established foreign key relationships
   - After all of those steps, there are remainings of  partial dependencies in the transactions table.
