@@ -71,6 +71,17 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
   4. Minimizing Redundancy and Improving Data Integrity
      - Identified and removed duplicated or repetitive data to ensure consistency, reduce storage waste, and increase accuracy in reporting.
 
+
+
+
+
+## 👤 Author
+
+**Tiran Bhashitha**  
+📧 tiran199820@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/tiran-bashitha-t199802) • [GitHub](https://github.com/TiranB)
+
+
      
      
     
