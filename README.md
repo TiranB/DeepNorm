@@ -79,7 +79,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
 
 **Tiran Bhashitha**  
 📧 tiran199820@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/tiran-bashitha-t199802) • [GitHub](https://github.com/TiranB)
+🔗 [LinkedIn](https://www.linkedin.com/in/tiran-bashitha-t199802) • [GitHub](https://github.com/TiranB)
 
 
      
