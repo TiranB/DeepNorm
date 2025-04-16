@@ -46,6 +46,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
      - Sorted for clear structure
      - Confirmed the uniqueness of the primary key columns by checking the 'column profile' in 'view' tab (select the 'Column profiling based on entire dataset' 
        option in the left bottom corner of the Power Query editor)
+       [Check it]()
   - Remove all the dimensional level data from the transaction table (Fact Table)
   - Established foreign key relationships
   - After all of those steps, there are remainings of  partial dependencies in the transactions table.
@@ -59,7 +60,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
   - In the 'Products' table 'ProductCategory' and 'ProductSubcategory' fields depend on 'ProductCategoryID' and 'ProductSubcategoryID' respectively. This is 3NF 
     violation. So those fields were separated into new tables. (Categories, Subcategories)
   - Close and Apply as a Data Model and Explore the 3NF in Power Pivot.
-       
+    ![Snowflake Schema for 3NF](https://github.com/TiranB/DeepNorm/blob/Images/snowflake%20schema%20for%203NF.JPG)  
 ## 🧠 Key Learnings     
      
     
