@@ -61,7 +61,17 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
     violation. So those fields were separated into new tables. (Categories, Subcategories)
   - Close and Apply as a Data Model and Explore the 3NF in Power Pivot.
     ![Snowflake Schema for 3NF](https://github.com/TiranB/DeepNorm/blob/Images/snowflake%20schema%20for%203NF.JPG)  
-## 🧠 Key Learnings     
+
+## 🧠 Key Learnings  
+  1. Practical understanding of Normalization (1NF, 2NF, 3NF)
+     - Gained hands-on experience in applying normalization rules to reshape a denormalized dataset into a clean, structured, and relational model.
+  2. Using Excel Power Query for Data Transformation
+     - Learned to use Power Query as an ETL tool — importing, cleaning, splitting, and restructuring raw data into multiple related tables efficiently.
+  3. Building Relational Data Models in Excel
+  4. Minimizing Redundancy and Improving Data Integrity
+     - Identified and removed duplicated or repetitive data to ensure consistency, reduce storage waste, and increase accuracy in reporting.
+
+     
      
     
 
