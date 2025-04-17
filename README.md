@@ -19,8 +19,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
 | 3NF | Remove transitive dependencies | 2NF → 3NF |
 
 ## 🔗 Data Source
-- **Dataset Name**: [Download Full Raw Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1UhqaGndmF8P667FnCYf2aYOxwVZyywtL/edit?usp=drive_link&ouid=117892321790624790599&rtpof=true&sd=true)
-- [hi](https://drive.google.com/drive/folders/1GpMdtZYvHN8pgTiexpg7ZpTUFaZEyjQK?usp=sharing)
+- **Dataset Name**: [Download Full Raw Dataset (Google Drive)](https://drive.google.com/drive/folders/1GpMdtZYvHN8pgTiexpg7ZpTUFaZEyjQK?usp=sharing)  
 - **Type**: Flat file (Excel)
 - **Rows**: [62885 rows]
 - **Field Categories**: Customer, Transaction, Products, Dates
