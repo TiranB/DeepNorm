@@ -60,7 +60,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
   - In the 'Products' table 'ProductCategory' and 'ProductSubcategory' fields depend on 'ProductCategoryID' and 'ProductSubcategoryID' respectively. This is 3NF 
     violation. So those fields were separated into new tables. (Categories, Subcategories)
   - Close and Apply as a Data Model and Explore the 3NF in Power Pivot.
-    ![Snowflake Schema for 3NF](https://github.com/TiranB/DeepNorm/blob/Images/snowflake%20schema%20for%203NF.JPG)  
+    ![Snowflake Schema for 3NF](https://github.com/TiranB/DeepNorm/blob/main/snowflake%20schema%20for%203NF.JPG)  
 
 ## 🧠 Key Learnings  
   1. Practical understanding of Normalization (1NF, 2NF, 3NF)
