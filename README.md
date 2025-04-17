@@ -46,7 +46,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
      - Sorted for clear structure
      - Confirmed the uniqueness of the primary key columns by checking the 'column profile' in 'view' tab (select the 'Column profiling based on entire dataset' 
        option in the left bottom corner of the Power Query editor)
-       [Preview of Column Profile'](https://github.com/TiranB/DeepNorm/blob/main/profile%20view%20image.JPG)
+       [Preview of Column Profile']()
   - Remove all the dimensional level data from the transaction table (Fact Table)
   - Established foreign key relationships
   - After all of those steps, there are remainings of  partial dependencies in the transactions table.
@@ -54,7 +54,7 @@ DeepNorm showcases how raw, denormalized data can be systematically transformed 
     (OrderNumber and Line Item). Because of that An Orders table needed to be created for further limitation of data redundancy. Mentioned fields were replaced in 
     the Orders table. The transaction table was renamed as 'Order Line Items'. So we have the deepest level of granularity in the 'Order Line Item ' table.
   - Close and Apply as a Data Model and Explore the 2NF in Power Pivot
-    ![Star schema for 2NF](https://github.com/TiranB/DeepNorm/blob/Images/star%20schema%20for%202%20NF.JPG)
+    ![Star schema for 2NF](https://github.com/TiranB/DeepNorm/blob/main/star%20schema%20for%202%20NF.JPG)
 
 ### 🔹 Apply Third Normal Form (3NF): Remove Transitive Dependencies (Non-key attributes should not depend on other non-key attributes)
   - In the 'Products' table 'ProductCategory' and 'ProductSubcategory' fields depend on 'ProductCategoryID' and 'ProductSubcategoryID' respectively. This is 3NF 
